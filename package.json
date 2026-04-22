@@ -1,0 +1,10 @@
+{
+  "name": "saldo-inteligente",
+  "version": "1.0.0",
+  "description": "Aplicação web de gestão financeira pessoal com back-end funcional",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
